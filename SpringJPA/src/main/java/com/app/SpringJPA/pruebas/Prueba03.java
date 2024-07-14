@@ -14,7 +14,7 @@ import com.app.SpringJPA.entities3.Revistas;
 import com.app.SpringJPA.repository3.EditorRepository;
 import com.app.SpringJPA.repository3.RevistasRepository;
 
-@Component
+//@Component
 public class Prueba03 implements CommandLineRunner{
 	@Autowired
 	private EditorRepository editorRepository;
