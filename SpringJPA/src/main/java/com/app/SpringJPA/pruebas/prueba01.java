@@ -11,7 +11,7 @@ import com.app.SpringJPA.entities.Estudiante;
 import com.app.SpringJPA.repository.DireccionRepository;
 import com.app.SpringJPA.repository.EstudianteRepository;
 
-@Component
+//@Component
 public class prueba01 implements CommandLineRunner{
 	@Autowired
 	private EstudianteRepository estudianteRepository;
