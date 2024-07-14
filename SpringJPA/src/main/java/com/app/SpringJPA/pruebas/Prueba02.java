@@ -14,7 +14,7 @@ import com.app.SpringJPA.entities2.Libro;
 import com.app.SpringJPA.repository2.AutorRepository;
 import com.app.SpringJPA.repository2.LibroRepository;
 
-@Component
+//@Component
 public class Prueba02 implements CommandLineRunner{
 	@Autowired
 	private AutorRepository autorRepository;
