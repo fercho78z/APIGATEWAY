@@ -10,7 +10,7 @@ import com.app.SpringJPA.repository4.AutomovilRepository;
 import com.app.SpringJPA.repository4.PropietarioRepository;
 
 
-	@Component
+	//@Component
 	public class Prueba04 implements CommandLineRunner{
 		@Autowired
 		private PropietarioRepository propietarioRepository;
