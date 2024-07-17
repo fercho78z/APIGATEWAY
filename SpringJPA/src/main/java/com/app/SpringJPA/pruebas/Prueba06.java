@@ -12,7 +12,7 @@ import com.app.SpringJPA.repository4.PropietarioRepository;
 import com.app.SpringJPA.repository6.AerolineaRepository;
 import com.app.SpringJPA.repository6.VueloRepository;
 
-@Component
+//@Component
 public class Prueba06 implements CommandLineRunner {
 
 	@Autowired
